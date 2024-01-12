@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shibin ashiq</h1>
+<h1 align="center">Hi 👋, I'm Femina Azeez</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -10,11 +10,11 @@
 
 - 💬 Ask me about **Python (django) | javasscript | Psql | figma | ORM |html | css | Bootstrap**
 
-- 📫 How to reach me **shibinashiq7224@gmail.com**
+- 📫 How to reach me **Feminaazeez.456@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shibinashiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shibin-ashiq" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/feminaazeez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shibin-ashiq" height="30" width="40" /></a>
 <a href="https://instagram.com/shibi_n__ashi_q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shibi_n__ashi_q" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shibinashiq7224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shibinashiq7224" height="30" width="40" /></a>
 </p>
