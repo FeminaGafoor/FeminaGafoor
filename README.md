@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/femina-azeez-25bb64253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/feminagafoor/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/femina-azeez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/feminagafoor/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
 <a href="https://www.instagram.com/femi_gaf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/feminagafoor/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  height="30" width="40" /></a>
 <a href="https://leetcode.com/femina_azeez123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/feminagafoor/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="feminagafoor" height="30" width="40" /></a>
 </p>
